@@ -1,5 +1,5 @@
 {
-  "name": "egg-born-bin",
+  "name": "@yuzedong/egg-born-bin",
   "version": "2.0.1",
   "description": "egg-born-bin",
   "main": "index.js",
